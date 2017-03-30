@@ -8,5 +8,6 @@ namespace libsignal-protocol-net
 {
     public class Class1
     {
+        
     }
 }
